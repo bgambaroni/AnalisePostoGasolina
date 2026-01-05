@@ -1,6 +1,3 @@
-![Dashboard Interativo](dashboard.png)
-![Vendas](resultado.png)
-
 # Análise de Vendas em Posto de Gasolina ⛽
 
 Projeto de Ciência de Dados para análise de vendas em um posto de gasolina fictício com 18 bombas, 3 tipos de combustível e 6 frentistas.
@@ -28,6 +25,10 @@ Criar um **dashboard interativo** para explorar vendas simuladas de 7 dias, perm
 - `analise_posto.ipynb` → Dashboard interativo principal
 - `vendas_posto.csv` → Dataset com todas as vendas
 - `gerar_dataset.py` → Script para gerar os dados (caso queira recriar)
+
+![Dashboard Interativo](dashboard.png)
+![Vendas](resultado.png)
+
 
 ## 🎯 Como usar
 1. Abra o arquivo `analise_posto.ipynb` no Google Colab ou Jupyter local:
