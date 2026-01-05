@@ -31,8 +31,7 @@ Criar um **dashboard interativo** para explorar vendas simuladas de 7 dias, perm
 
 
 ## 🎯 Como usar
-1. Abra o arquivo `analise_posto.ipynb` no Google Colab ou Jupyter local:
-   - Link direto no Colab: [Abrir no Colab](https://colab.research.google.com/github/SEU-USUARIO/NOME-DO-REPO/blob/main/analise_posto.ipynb)
+1. Abra o arquivo `analise_posto.ipynb` no Jupyter local:
 2. Execute todas as células
 3. Use os menus para explorar as vendas!
 
