@@ -1,3 +1,6 @@
+![Dashboard Interativo](dashboard.png)
+![Vendas](resultado.png)
+
 # Análise de Vendas em Posto de Gasolina ⛽
 
 Projeto de Ciência de Dados para análise de vendas em um posto de gasolina fictício com 18 bombas, 3 tipos de combustível e 6 frentistas.
