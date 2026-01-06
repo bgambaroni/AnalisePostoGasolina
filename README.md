@@ -35,6 +35,10 @@ Criar um **dashboard interativo** para explorar vendas simuladas de 7 dias, perm
 2. Execute todas as células
 3. Use os menus para explorar as vendas!
 
+Ou:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bgambaroni/AnalisePostoGasolina/blob/main/analise_posto.ipynb)
+
 ## 📈 Exemplo de uso
 Escolha um frentista, um período e um combustível → resultados aparecem instantaneamente.
 
